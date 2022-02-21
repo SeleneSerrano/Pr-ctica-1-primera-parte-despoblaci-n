@@ -1,5 +1,5 @@
-#PRÁCTICA 1- EDUCACIÓN EN LA ESPAÑA VACIADA
-##El mapa interactivo de Newtral muestra  la realidad de la despoblación en los colegios públicos
+# PRÁCTICA 1- EDUCACIÓN EN LA ESPAÑA VACIADA
+## El mapa interactivo de Newtral muestra  la realidad de la despoblación en los colegios públicos
 
 En este mapa interactivo realizado por *Newtral.es* se ve la realidad de los colegios  públicos de la denominada España vacía o vaciada. **De la muestra de 1045 colegios públicos de Castilla y León, la realidad es que 178 de ellos son centros educativos agrupados** (lo que significa que, como su nombre indica, se agrupan alumnos de distintas localidades, independientemente de las edades). Además, con solo 4 alumnos (en unos meses, con 3) ya es posible abrirlo. 
 
